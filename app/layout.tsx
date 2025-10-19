@@ -23,11 +23,11 @@ export const metadata: Metadata = {
     title: "Landoh Clansy — Full Stack Developer",
     description:
       "Explore the portfolio of Landoh Clansy — building modern web apps, APIs, and AI-driven systems with a focus on clean design and performance.",
-    url: "https://your-vercel-link.vercel.app", // replace with your live site URL
+    url: "https://landoh-clansy-portfolio.vercel.app/", 
     siteName: "Landoh Clansy Portfolio",
     images: [
       {
-        url: "https://your-vercel-link.vercel.app/og-image.png", // optional OG image
+        url: "https://landoh-clansy-portfolio.vercel.app/og-image.png", 
         width: 1200,
         height: 630,
         alt: "Landoh Clansy Portfolio Preview",
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     description:
       "I’m Landoh Clansy, a developer passionate about clean code, bold ideas, and AI-powered solutions.",
     creator: "@LandohClensy", 
-    images: ["https://your-vercel-link.vercel.app/og-image.png"],
+    images: ["https://landoh-clansy-portfolio.vercel.app/og-image.png"],
   },
 };
 

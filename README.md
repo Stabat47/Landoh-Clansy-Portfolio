@@ -17,7 +17,7 @@ Welcome to my personal developer portfolio, built with **Next.js**, **TypeScript
 - React Icons
 
 ## 💼 Live Site
-👉 [Visit Portfolio](https://your-vercel-link.vercel.app)
+👉 [Visit Portfolio](https://landoh-clansy-portfolio.vercel.app/)
 
 ## 📫 Contact
 - **Email:** clensylandoh@gmail.com  
@@ -26,4 +26,4 @@ Welcome to my personal developer portfolio, built with **Next.js**, **TypeScript
 
 ---
 
-> Built with by **Landoh Clansy** — passionate about crafting clean code, bold ideas, and AI-powered solutions.
+> Built by **Landoh Clansy** — passionate about crafting clean code, bold ideas, and AI-powered solutions.
